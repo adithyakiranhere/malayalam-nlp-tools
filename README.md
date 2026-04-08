@@ -17,7 +17,7 @@ will need to rebuild from source.
 
 ```bash
 git clone <this-repo>
-cd LSR
+cd malayalam-nlp-tools
 python3 inference.py
 ```
 
