@@ -99,3 +99,8 @@ python3 lsrmodel.py --info
 - 71 paradigms (42 with full rule coverage)
 - 27,520 unique inflected surface forms learned
 - Covers N, V, adj, adv, PN
+
+
+## other os
+
+will update soon
